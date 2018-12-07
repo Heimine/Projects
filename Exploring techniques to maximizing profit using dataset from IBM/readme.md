@@ -1,7 +1,7 @@
 # Exploring techniques to maximizing profit using dataset from IBM
 2018.11 - 2018.12
 ## Basic Information
-This project was a term group project for Introduction to Data Science (DS-GA 1001) with [Alex Spence](https://github.com/aspen8400) and Jonas Bartl. The idea of the project is using historical dataset from IBM (1) including 78025 sales opportunity with features like opportunity amount, route to market, region of opportunity and the result of each opportunity identified as win or loss to find the best model which could offer the best profit by making some assumptions about the company.
+This project was a term group project for Introduction to Data Science (DS-GA 1001) with [Alex Spence](https://github.com/aspen8400) and [Jonas Bartl](https://github.com/jonasbartl/). The idea of the project is using historical dataset from IBM (1) including 78025 sales opportunity with features like opportunity amount, route to market, region of opportunity and the result of each opportunity identified as win or loss to find the best model which could offer the best profit by making some assumptions about the company.
 
 ## Personal Contribution
 Did data preprocessing and implemented base line models including Decition Tree, Logistic Regression and Support Vector Machine;
