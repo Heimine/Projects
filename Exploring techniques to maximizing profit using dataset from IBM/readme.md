@@ -15,7 +15,9 @@ Containing base line models
 [Most of the final results](https://github.com/Heimine/School_Project/blob/master/Exploring%20techniques%20to%20maximizing%20profit%20using%20dataset%20from%20IBM/Most%20of%20the%20final%20results.ipynb)  
 Containing all of the results on full feature set and some plots including profit curves under different condtions along with some table illustrates two different feature reduction techniques. Also includes paramter tuning for the feature reduction set on Decition Tree, Logistic Regression and Gradient Boosting.  
 [Parameter tuning for feature set after feature reduction and results](https://github.com/Heimine/School_Project/blob/master/Exploring%20techniques%20to%20maximizing%20profit%20using%20dataset%20from%20IBM/Parameter%20tuning%20for%20feature%20set%20after%20feature%20reduction%20and%20results.ipynb)  
-Containing paramter tuning for the feature set after reduction by mutual information for Random Forest and resulting ROC curve after parameter tuning.
+Containing paramter tuning for the feature set after reduction by mutual information for Random Forest and resulting ROC curve after parameter tuning.  
+[Final Report](https://github.com/Heimine/School_Project/blob/master/Exploring%20techniques%20to%20maximizing%20profit%20using%20dataset%20from%20IBM/DS-GA%201001%20Project%20Report.pdf)  
+Containing the final report.
 
 ## Note
 The sudden drop between base line models and final results regarding the auc score for each classifier is because we didn't delete some features that have problem of leaking and some instances that should not be considered.
