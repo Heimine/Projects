@@ -4,7 +4,8 @@
 This project was a term group project for Programming for Data Science (DS-GA 1007) with Jingrou Wei, Yi Nian and Xuan Wang. The idea of the project is using a dataset created by IBM (1) including 1470 instances with each instance as a employee, 34 features containing Age, Maritual Status, Monthly Income and etc and target variable "Attrition" as a binary class with "Yes" or "No" as its value. The project aims for discovering relationships between features and the Attrition status, finding a best model for predicting Attritions and trying to find out methods and opinion for the company to reduce attrition rate.
 
 ## Personal Contribution
-Did Exploratory Analysis
+Did Exploratory Analysis;
+
 Did data preprocessing and implemented base line models including Decition Tree, Logistic Regression and Support Vector Machine;
 Implemented feature reduction by mutual information;
 Implemented Random Forest;
