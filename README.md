@@ -2,7 +2,8 @@
 Contains all school projects during Mater at NYU and a brief report when doing research at UW
 
 ## Directory
-2017 (UW)
+2017 (UW)  
+[Shapes of Julia Sets](https://github.com/Heimine/School_Project/tree/master/Shapes%20of%20Julia%20sets)
 
 2018 (NYU)
 1. [Exploring techniques to maximizing profit using dataset from IBM](https://github.com/Heimine/School_Project/tree/master/Exploring%20techniques%20to%20maximizing%20profit%20using%20dataset%20from%20IBM)  
