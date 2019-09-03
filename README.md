@@ -1,5 +1,5 @@
 # School_Project
-Contains all school projects during Mater at NYU and a brief report when doing research at UW
+Contains all projects did in class or out of class during Mater at NYU and a brief report when doing research at UW
 
 ## Directory
 2017 (UW)  
