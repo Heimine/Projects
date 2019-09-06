@@ -1,13 +1,7 @@
-# Exploring techniques to maximizing profit using dataset from IBM
-2018.11 - 2018.12
+# N-of-1 Balanced Repeated Measure Design
+2019.06 - Now
 ## Basic Information
-This project was a term group project for Introduction to Data Science (DS-GA 1001) with [Alex Spence](https://github.com/aspen8400) and [Jonas Bartl](https://github.com/jonasbartl/). The idea of the project is using historical dataset from IBM (1) including 78025 sales opportunity with features like opportunity amount, route to market, region of opportunity and the result of each opportunity identified as win or loss to find the best model which could offer the best profit by making some assumptions about the company.
-
-## Personal Contribution
-Did data preprocessing and implemented base line models including Decition Tree, Logistic Regression and Support Vector Machine;
-Implemented feature reduction by Decision Tree feature importances and mutual information;
-Implemented Gradient Boosting classifier and did parameter tuning for it;
-Made profit curves for each classifiers by using some assumption about the company.
+This folder contains algorithms and trails about n-of-1 balanced repeated measure design. This research project is under supervision of Prof. [Ying Lu](https://steinhardt.nyu.edu/people/ying-lu). The primary focus is to find an algorithm which could produce the shortest sequences that are balanced in terms of first order, second order and etc based on requirements and prove the supremacy in terms of efficiency and accuracy of these sequences compared to random assign treatments when it comes to, for example, finding the best treatment or treatment combination for a certain patient.(e.g, ABBAA is a balanced first order sequence with two treatments (AB), where "AA", "AB", "BA", "BB" all apear once and only once in the sequence, the problem will become more complex when we consider higher orders or more treatments).
 
 ## Appendix
 [Base line models](https://github.com/Heimine/School_Project/blob/master/Exploring%20techniques%20to%20maximizing%20profit%20using%20dataset%20from%20IBM/Base%20line%20models.ipynb)  
