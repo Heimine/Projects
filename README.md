@@ -10,4 +10,5 @@ Contains all projects did in class or out of class during Mater at NYU and a bri
 2. [IBM Attrition Analysis](https://github.com/Heimine/School_Project/tree/master/IBM%20Attrition%20Analysis)
 
 2019 (NYU)
-1. [N-of-1 Balanced Repeated Measure Design](https://github.com/Heimine/School_Project/tree/master/N-of-1%20Balanced%20Repeated%20Measure%20Design)
+1. [Scattering Transform and CNN for Medical Image Classification](https://github.com/Heimine/School_Project/tree/master/Scattering%20Transform%20and%20CNN%20for%20Medical%20Image%20Classification) 
+2. [N-of-1 Balanced Repeated Measure Design](https://github.com/Heimine/School_Project/tree/master/N-of-1%20Balanced%20Repeated%20Measure%20Design)
