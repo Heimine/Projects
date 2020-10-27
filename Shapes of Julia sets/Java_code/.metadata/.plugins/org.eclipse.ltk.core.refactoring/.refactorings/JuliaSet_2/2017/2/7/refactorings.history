@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;DrawingPanel.java&apos; to &apos;DistanceEstimation.java&apos;&#x0A;- Original project: &apos;JuliaSet_2&apos;&#x0A;- Destination element: &apos;DistanceEstimation.java&apos;&#x0A;- Original element: &apos;DrawingPanel.java&apos;" description="Copy compilation unit" destination="=Distance_estimation/src&lt;{DistanceEstimation.java" element1="/src&lt;{DrawingPanel.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1487285097892" units="1" version="1.0"/>
+</session>
